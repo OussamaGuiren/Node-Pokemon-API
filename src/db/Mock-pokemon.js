@@ -106,6 +106,15 @@ const pokemons = [
      picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png",
      types: ["Feu"],
      created: new Date()
+    },
+    {
+     id: 13,
+     name: "Rondoudou",
+     hp: 19,
+     cp: 7,
+     picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/039.png",
+     types: ["Normal","Fée"],
+     created: new Date()
     }
    ];
      
