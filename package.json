@@ -9,9 +9,12 @@
   "author": "Oussama",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "body-parser": "^1.20.0",
     "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
     "mariadb": "^3.0.1",
+    "save": "^2.5.0",
     "sequelize": "^6.21.4",
     "serve-favicon": "^2.5.0"
   },
